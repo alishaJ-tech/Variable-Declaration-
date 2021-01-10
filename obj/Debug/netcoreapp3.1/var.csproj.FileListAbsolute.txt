@@ -1,0 +1,13 @@
+C:\Users\muftanatu\var\obj\Debug\netcoreapp3.1\var.csprojAssemblyReference.cache
+C:\Users\muftanatu\var\obj\Debug\netcoreapp3.1\var.AssemblyInfoInputs.cache
+C:\Users\muftanatu\var\obj\Debug\netcoreapp3.1\var.AssemblyInfo.cs
+C:\Users\muftanatu\var\obj\Debug\netcoreapp3.1\var.csproj.CoreCompileInputs.cache
+C:\Users\muftanatu\var\bin\Debug\netcoreapp3.1\var.exe
+C:\Users\muftanatu\var\bin\Debug\netcoreapp3.1\var.deps.json
+C:\Users\muftanatu\var\bin\Debug\netcoreapp3.1\var.runtimeconfig.json
+C:\Users\muftanatu\var\bin\Debug\netcoreapp3.1\var.runtimeconfig.dev.json
+C:\Users\muftanatu\var\bin\Debug\netcoreapp3.1\var.dll
+C:\Users\muftanatu\var\bin\Debug\netcoreapp3.1\var.pdb
+C:\Users\muftanatu\var\obj\Debug\netcoreapp3.1\var.dll
+C:\Users\muftanatu\var\obj\Debug\netcoreapp3.1\var.pdb
+C:\Users\muftanatu\var\obj\Debug\netcoreapp3.1\var.genruntimeconfig.cache
